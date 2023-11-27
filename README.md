@@ -1,1 +1,1 @@
-# ineuron-assingnment
+# Q&A to Masters PYTHON
